@@ -3,10 +3,11 @@
   background: #fff;
   display: block;
   margin: 20px 10px;
-  border: 1px solid #fff;
   border-left: 8px solid #fff;
 }
 
 .single:hover {
+  border: 1px solid #4979ff;
   border-left: 8px solid #4979ff;
+  background-color: rgba(73, 121, 255, 0.10);
 }
